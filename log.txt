@@ -1,0 +1,469 @@
+Version: 11.7
+Windows Version: 6.2/9200/2
+Start: http://www.fku-co.jp/
+Depth: 1000
+Also: 
+Save to: C:\Users\Fukuda\Desktop\HomepageClone
+Wait sec: 0.1
+CGI mode: 0
+Exclude: 
+User-agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Code fix: 0
+Power: 0
+hmwget2 version: hpcn117rc1
+Downloading started at local time: 2016/5/6 10:03:45 
+Start page: `http://www.fku-co.jp/'
+Depth: 1000
+CGI mode: 0
+Include: `http://www.fku-co.jp/'
+Wait sec: 0.1 sec
+User agent: `Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)'
+Convert: 0
+Power: 0
+
+2016/5/6 01:03:45     Checking ext `http://www.fku-co.jp/'=>.html
+2016/5/6 01:03:45 Getting the pages in depth 1.
+2016/5/6 01:03:45   Downloading `http://www.fku-co.jp/'.
+2016/5/6 01:03:45     Ref=`'.
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/css/A.jqselectable.css+prettyphoto.css+popup.css+base.css+print.css+layout.css,,q20150708+jqtransform.css,Mcc._Rn03G5v2q.css.pagespeed.cf.d-C8lroREQ.css'=>.css
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/plugins/jquery/jquery_v2.1.4.js.pagespeed.jm.UWusawvZ2R.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/ajax_v2016.js.pagespeed.jm.zU2P_iEg1z.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/jcarousellite_v1.1.js.pagespeed.jm.wtlzVdCKLg.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/mousewheel_v3.1.13.js.pagespeed.jm.wBwlG6vk-c.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/jscrollpane.js.pagespeed.jm.2wYEC_BNG3.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/treeview.js.pagespeed.jm.Ccxdh7coVu.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/common_v2016.js.pagespeed.jm.6iGU-6_f5J.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/plugins/prettyphoto/prettyphoto_v3.1.6.js,q20150527.pagespeed.jm.w2fGLjjfmp.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://web.xaas.jp/js/basicCommon/DD_belatedPNG.js'=>.js
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/theme/2/css/theme.css'=>.css
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/addStyle.css?20160427'=>.css
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/index.html'=>.html
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/images/material/logo.jpg'=>.jpg
+2016/5/6 01:03:46     Downloading binary `http://www.fku-co.jp/images/material/logo.jpg'.
+2016/5/6 01:03:46       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/company.html'=>.html
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/original.html'=>.html
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/original2.html'=>.html
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/original3.html'=>.html
+2016/5/6 01:03:46     Testing URL `http://www.fku-co.jp/app/Blogarticlelist/'=>YES.
+2016/5/6 01:03:46     Checking ext `http://www.fku-co.jp/app/Blogarticlelist/'=>.html
+2016/5/6 01:03:47     Checking ext `http://www.fku-co.jp/privacy.html'=>.html
+2016/5/6 01:03:47     Checking ext `http://www.fku-co.jp/sitemap.html'=>.html
+2016/5/6 01:03:47     Checking ext `http://www.fku-co.jp/images/material/bnr_img005.jpg'=>.jpg
+2016/5/6 01:03:47     Downloading binary `http://www.fku-co.jp/images/material/bnr_img005.jpg'.
+2016/5/6 01:03:47       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:47     Checking ext `http://www.fku-co.jp/images/material/main_img.jpg'=>.jpg
+2016/5/6 01:03:47     Downloading binary `http://www.fku-co.jp/images/material/main_img.jpg'.
+2016/5/6 01:03:47       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:47     Checking ext `http://www.fku-co.jp/images/material/top_img001.jpg'=>.jpg
+2016/5/6 01:03:47     Downloading binary `http://www.fku-co.jp/images/material/top_img001.jpg'.
+2016/5/6 01:03:47       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:47     Checking ext `http://www.fku-co.jp/images/material/bnr_img001.jpg'=>.jpg
+2016/5/6 01:03:47     Downloading binary `http://www.fku-co.jp/images/material/bnr_img001.jpg'.
+2016/5/6 01:03:47       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:47     Checking ext `http://www.fku-co.jp/images/material/bnr_img002.jpg'=>.jpg
+2016/5/6 01:03:47     Downloading binary `http://www.fku-co.jp/images/material/bnr_img002.jpg'.
+2016/5/6 01:03:47       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:47     Checking ext `http://www.fku-co.jp/images/material/bnr_img003.jpg'=>.jpg
+2016/5/6 01:03:47     Downloading binary `http://www.fku-co.jp/images/material/bnr_img003.jpg'.
+2016/5/6 01:03:47       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:48     Checking ext `http://www.fku-co.jp/images/material/top_img002.jpg'=>.jpg
+2016/5/6 01:03:48     Downloading binary `http://www.fku-co.jp/images/material/top_img002.jpg'.
+2016/5/6 01:03:48       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:48     Checking ext `http://www.fku-co.jp/images/material/bnr_img004.jpg'=>.jpg
+2016/5/6 01:03:48     Downloading binary `http://www.fku-co.jp/images/material/bnr_img004.jpg'.
+2016/5/6 01:03:48       Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:48     Checking ext `http://web.xaas.jp/js/parts/information.js.pagespeed.jm.95f-nsecLq.js'=>.js
+2016/5/6 01:03:48   Downloading `http://web.xaas.jp/css/A.jqselectable.css+prettyphoto.css+popup.css+base.css+print.css+layout.css,,q20150708+jqtransform.css,Mcc._Rn03G5v2q.css.pagespeed.cf.d-C8lroREQ.css'.
+2016/5/6 01:03:48     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:48     Checking ext `http://web.xaas.jp/img/xsprite.png.pagespeed.ic.zQryGQ2EwT.png'=>.png
+2016/5/6 01:03:48     Downloading binary `http://web.xaas.jp/img/xsprite.png.pagespeed.ic.zQryGQ2EwT.png'.
+2016/5/6 01:03:48       Ref=`http://web.xaas.jp/css/A.jqselectable.css+prettyphoto.css+popup.css+base.css+print.css+layout.css,,q20150708+jqtransform.css,Mcc._Rn03G5v2q.css.pagespeed.cf.d-C8lroREQ.css'.
+2016/5/6 01:03:48   Downloading `http://web.xaas.jp/js/basicCommon/plugins/jquery/jquery_v2.1.4.js.pagespeed.jm.UWusawvZ2R.js'.
+2016/5/6 01:03:48     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:48   Downloading `http://web.xaas.jp/js/basicCommon/ajax_v2016.js.pagespeed.jm.zU2P_iEg1z.js'.
+2016/5/6 01:03:48     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:49   Downloading `http://web.xaas.jp/js/basicCommon/jcarousellite_v1.1.js.pagespeed.jm.wtlzVdCKLg.js'.
+2016/5/6 01:03:49     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:49   Downloading `http://web.xaas.jp/js/basicCommon/mousewheel_v3.1.13.js.pagespeed.jm.wBwlG6vk-c.js'.
+2016/5/6 01:03:49     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:49   Downloading `http://web.xaas.jp/js/basicCommon/jscrollpane.js.pagespeed.jm.2wYEC_BNG3.js'.
+2016/5/6 01:03:49     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:49   Downloading `http://web.xaas.jp/js/basicCommon/treeview.js.pagespeed.jm.Ccxdh7coVu.js'.
+2016/5/6 01:03:49     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:49   Downloading `http://web.xaas.jp/js/basicCommon/common_v2016.js.pagespeed.jm.6iGU-6_f5J.js'.
+2016/5/6 01:03:49     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:49   Downloading `http://web.xaas.jp/js/basicCommon/plugins/prettyphoto/prettyphoto_v3.1.6.js,q20150527.pagespeed.jm.w2fGLjjfmp.js'.
+2016/5/6 01:03:49     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:49   Downloading `http://web.xaas.jp/js/basicCommon/DD_belatedPNG.js'.
+2016/5/6 01:03:49     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:49   Downloading `http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:49     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/bg_gnv.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_gnv.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/icn_home.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_home.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/nv_logout.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/nv_logout.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/nv_cart.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/nv_cart.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/nv_login.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/nv_login.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/nv_mypage_blk2.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/nv_mypage_blk2.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/bg_search.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_search.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/icn_search.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_search.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/btn_search.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_search.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:50     Checking ext `http://www.fku-co.jp/theme/2/img/bg_footer.gif'=>.gif
+2016/5/6 01:03:50     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_footer.gif'.
+2016/5/6 01:03:50       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/icn_deliv01.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_deliv01.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/icn_deliv02.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_deliv02.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/icn_deliv03.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_deliv03.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/bg_table01.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_table01.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/btn_select.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_select.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/btn_check.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_check.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/btn_radio.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_radio.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_m01.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_m01.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_m02.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_m02.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:51     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_m03.gif'=>.gif
+2016/5/6 01:03:51     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_m03.gif'.
+2016/5/6 01:03:51       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_s01.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_s01.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_s02.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_s02.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_s03.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_s03.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_a01.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_a01.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_a02.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_a02.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_a03.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_a03.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_n01.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_n01.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_n02.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_n02.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/bg_btn_n03.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_btn_n03.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/icn_arrow02.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_arrow02.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:52     Checking ext `http://www.fku-co.jp/theme/2/img/icn_arrow03.gif'=>.gif
+2016/5/6 01:03:52     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_arrow03.gif'.
+2016/5/6 01:03:52       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_calendar.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_calendar.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/icn_arrow04.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_arrow04.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/icn_arrow05.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_arrow05.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_information.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_information.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/bg_border01.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_border01.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/icn_rss.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_rss.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_campaignList01.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_campaignList01.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_campaignList02.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_campaignList02.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/btn_arrow01.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_arrow01.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:53     Checking ext `http://www.fku-co.jp/theme/2/img/btn_arrow02.gif'=>.gif
+2016/5/6 01:03:53     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_arrow02.gif'.
+2016/5/6 01:03:53       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_campaignList03.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_campaignList03.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/bg_border02.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_border02.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_campaignList04.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_campaignList04.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/icn_arrow01.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_arrow01.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/tweetn-ja.png'=>.png
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/tweetn-ja.png'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_ranking01.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_ranking01.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/icn_arrow06.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_arrow06.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/bg_border03.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_border03.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_blog.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_blog.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_itemlist01.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_itemlist01.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:54     Checking ext `http://www.fku-co.jp/theme/2/img/btn_arrow03.gif'=>.gif
+2016/5/6 01:03:54     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_arrow03.gif'.
+2016/5/6 01:03:54       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/btn_arrow04.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_arrow04.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/btn_arrow05.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_arrow05.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/btn_arrow06.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_arrow06.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/img_arrow.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/img_arrow.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/bg_border04.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/bg_border04.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_itemdetail01.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_itemdetail01.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/icn_zoom.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_zoom.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/btn_limit.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_limit.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/icn_comment.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_comment.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:55     Checking ext `http://www.fku-co.jp/theme/2/img/icn_tweet.gif'=>.gif
+2016/5/6 01:03:55     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_tweet.gif'.
+2016/5/6 01:03:55       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/icn_contact.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_contact.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/icn_mailto.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_mailto.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/icn_tomobile.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_tomobile.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/icn_rearrival.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_rearrival.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/btn_arrow07.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_arrow07.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/btn_arrow08.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_arrow08.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_cart.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_cart.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/btn_select_l.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_select_l.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/btn_up.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_up.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/btn_down.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/btn_down.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:56     Checking ext `http://www.fku-co.jp/theme/2/img/img_step01.gif'=>.gif
+2016/5/6 01:03:56     Downloading binary `http://www.fku-co.jp/theme/2/img/img_step01.gif'.
+2016/5/6 01:03:56       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:57     Checking ext `http://www.fku-co.jp/theme/2/img/img_step02.gif'=>.gif
+2016/5/6 01:03:57     Downloading binary `http://www.fku-co.jp/theme/2/img/img_step02.gif'.
+2016/5/6 01:03:57       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:57     Checking ext `http://www.fku-co.jp/theme/2/img/img_step03.gif'=>.gif
+2016/5/6 01:03:57     Downloading binary `http://www.fku-co.jp/theme/2/img/img_step03.gif'.
+2016/5/6 01:03:57       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:57     Checking ext `http://www.fku-co.jp/theme/2/img/img_step04.gif'=>.gif
+2016/5/6 01:03:57     Downloading binary `http://www.fku-co.jp/theme/2/img/img_step04.gif'.
+2016/5/6 01:03:57       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:57     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_regist.gif'=>.gif
+2016/5/6 01:03:57     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_regist.gif'.
+2016/5/6 01:03:57       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:57     Checking ext `http://www.fku-co.jp/theme/2/img/icn_h_mypage.gif'=>.gif
+2016/5/6 01:03:57     Downloading binary `http://www.fku-co.jp/theme/2/img/icn_h_mypage.gif'.
+2016/5/6 01:03:57       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:57     Checking ext `http://www.fku-co.jp/theme/2/img/img_calendar.gif'=>.gif
+2016/5/6 01:03:57     Downloading binary `http://www.fku-co.jp/theme/2/img/img_calendar.gif'.
+2016/5/6 01:03:57       Ref=`http://www.fku-co.jp/theme/2/css/theme.css'.
+2016/5/6 01:03:57   Downloading `http://www.fku-co.jp/addStyle.css?20160427'.
+2016/5/6 01:03:57     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:57     Checking ext `http://www.fku-co.jp/images/material/hdr_bg.jpg'=>.jpg
+2016/5/6 01:03:57     Downloading binary `http://www.fku-co.jp/images/material/hdr_bg.jpg'.
+2016/5/6 01:03:57       Ref=`http://www.fku-co.jp/addStyle.css?20160427'.
+2016/5/6 01:03:58   Downloading `http://web.xaas.jp/js/parts/information.js.pagespeed.jm.95f-nsecLq.js'.
+2016/5/6 01:03:58     Ref=`http://www.fku-co.jp/'.
+
+2016/5/6 01:03:58 Getting the pages in depth 2.
+2016/5/6 01:03:58   Downloading `http://www.fku-co.jp/index.html'.
+2016/5/6 01:03:58     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:58   Downloading `http://www.fku-co.jp/company.html'.
+2016/5/6 01:03:58     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:03:58     Checking ext `http://www.fku-co.jp/images/material/company_img001.jpg'=>.jpg
+2016/5/6 01:03:58     Downloading binary `http://www.fku-co.jp/images/material/company_img001.jpg'.
+2016/5/6 01:03:58       Ref=`http://www.fku-co.jp/company.html'.
+2016/5/6 01:03:58     Testing URL `http://www.fku-co.jp/mailTo:info%40fku-co.jp/'=>YES.
+2016/5/6 01:03:59     Checking ext `http://www.fku-co.jp/mailTo:info%40fku-co.jp/'=>.html
+2016/5/6 01:03:59   Downloading `http://www.fku-co.jp/original.html'.
+2016/5/6 01:03:59     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:04:00     Checking ext `http://www.fku-co.jp/images/material/original_img001.jpg'=>.jpg
+2016/5/6 01:04:00     Downloading binary `http://www.fku-co.jp/images/material/original_img001.jpg'.
+2016/5/6 01:04:00       Ref=`http://www.fku-co.jp/original.html'.
+2016/5/6 01:04:00   Downloading `http://www.fku-co.jp/original2.html'.
+2016/5/6 01:04:00     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:04:00     Checking ext `http://www.fku-co.jp/images/material/original2_img001.jpg'=>.jpg
+2016/5/6 01:04:00     Downloading binary `http://www.fku-co.jp/images/material/original2_img001.jpg'.
+2016/5/6 01:04:00       Ref=`http://www.fku-co.jp/original2.html'.
+2016/5/6 01:04:00   Downloading `http://www.fku-co.jp/original3.html'.
+2016/5/6 01:04:00     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:04:00     Checking ext `http://www.fku-co.jp/images/material/original3_img001.jpg'=>.jpg
+2016/5/6 01:04:00     Downloading binary `http://www.fku-co.jp/images/material/original3_img001.jpg'.
+2016/5/6 01:04:00       Ref=`http://www.fku-co.jp/original3.html'.
+2016/5/6 01:04:01     Checking ext `http://www.fku-co.jp/images/material/original3_img002.jpg'=>.jpg
+2016/5/6 01:04:01     Downloading binary `http://www.fku-co.jp/images/material/original3_img002.jpg'.
+2016/5/6 01:04:01       Ref=`http://www.fku-co.jp/original3.html'.
+2016/5/6 01:04:01     Checking ext `http://www.fku-co.jp/images/material/original3_img003.jpg'=>.jpg
+2016/5/6 01:04:01     Downloading binary `http://www.fku-co.jp/images/material/original3_img003.jpg'.
+2016/5/6 01:04:01       Ref=`http://www.fku-co.jp/original3.html'.
+2016/5/6 01:04:01     Checking ext `http://www.fku-co.jp/images/material/original3_img004.jpg'=>.jpg
+2016/5/6 01:04:01     Downloading binary `http://www.fku-co.jp/images/material/original3_img004.jpg'.
+2016/5/6 01:04:01       Ref=`http://www.fku-co.jp/original3.html'.
+2016/5/6 01:04:01     Checking ext `http://www.fku-co.jp/images/material/original3_img005.jpg'=>.jpg
+2016/5/6 01:04:01     Downloading binary `http://www.fku-co.jp/images/material/original3_img005.jpg'.
+2016/5/6 01:04:01       Ref=`http://www.fku-co.jp/original3.html'.
+2016/5/6 01:04:01     Checking ext `http://www.fku-co.jp/images/material/original3_img006.jpg'=>.jpg
+2016/5/6 01:04:01     Downloading binary `http://www.fku-co.jp/images/material/original3_img006.jpg'.
+2016/5/6 01:04:01       Ref=`http://www.fku-co.jp/original3.html'.
+2016/5/6 01:04:01   Downloading `http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:01     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:04:02     Checking ext `http://web.xaas.jp/js/basicCommon/jdialogurl.js.pagespeed.jm.t9cJgfvncA.js'=>.js
+2016/5/6 01:04:02     Checking ext `http://web.xaas.jp/js/basicCommon/plugins/jQselectable/jQselectable_v2016.js.pagespeed.jm.FyORpxeZS_.js'=>.js
+2016/5/6 01:04:02     Checking ext `http://web.xaas.jp/js/basicCommon/popup.js.pagespeed.jm.OhloF424QD.js'=>.js
+2016/5/6 01:04:02     Checking ext `http://web.xaas.jp/js/basicCommon/commoncheck.js.pagespeed.jm.g7YFdKKKQq.js'=>.js
+2016/5/6 01:04:02     Checking ext `http://web.xaas.jp/js/basicCommon/businesscheck.js.pagespeed.jm.WIFbwXK8jD.js'=>.js
+2016/5/6 01:04:02     Checking ext `http://web.xaas.jp/js/app/blogArticleView.js,qv=20160209.pagespeed.jm.NthX5f55Mf.js'=>.js
+2016/5/6 01:04:02     Testing URL `http://www.fku-co.jp/app/Blogarticlelist/index/ArticleCatgId/1/'=>YES.
+2016/5/6 01:04:02     Checking ext `http://www.fku-co.jp/app/Blogarticlelist/index/ArticleCatgId/1/'=>.html
+2016/5/6 01:04:03     Testing URL `http://www.fku-co.jp/app/Blogarticleview/index/ArticleId/3/'=>YES.
+2016/5/6 01:04:03     Checking ext `http://www.fku-co.jp/app/Blogarticleview/index/ArticleId/3/'=>.html
+2016/5/6 01:04:03     Checking ext `http://www.fku-co.jp/images/material/blog_img001.jpg'=>.jpg
+2016/5/6 01:04:03     Downloading binary `http://www.fku-co.jp/images/material/blog_img001.jpg'.
+2016/5/6 01:04:03       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:04     Checking ext `http://www.fku-co.jp/images/material/blog_img002.jpg'=>.jpg
+2016/5/6 01:04:04     Downloading binary `http://www.fku-co.jp/images/material/blog_img002.jpg'.
+2016/5/6 01:04:04       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:04     Checking ext `http://www.fku-co.jp/images/material/blog_img003.jpg'=>.jpg
+2016/5/6 01:04:04     Downloading binary `http://www.fku-co.jp/images/material/blog_img003.jpg'.
+2016/5/6 01:04:04       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:04     Checking ext `http://www.fku-co.jp/images/material/blog_img004.jpg'=>.jpg
+2016/5/6 01:04:04     Downloading binary `http://www.fku-co.jp/images/material/blog_img004.jpg'.
+2016/5/6 01:04:04       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:04     Checking ext `http://www.fku-co.jp/images/material/blog_img005.jpg'=>.jpg
+2016/5/6 01:04:04     Downloading binary `http://www.fku-co.jp/images/material/blog_img005.jpg'.
+2016/5/6 01:04:04       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:04     Checking ext `http://www.fku-co.jp/images/material/blog_img006.jpg'=>.jpg
+2016/5/6 01:04:04     Downloading binary `http://www.fku-co.jp/images/material/blog_img006.jpg'.
+2016/5/6 01:04:04       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:04     Checking ext `http://www.fku-co.jp/images/material/blog_img007.jpg'=>.jpg
+2016/5/6 01:04:04     Downloading binary `http://www.fku-co.jp/images/material/blog_img007.jpg'.
+2016/5/6 01:04:04       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:05     Checking ext `http://www.fku-co.jp/images/material/blog_img008.jpg'=>.jpg
+2016/5/6 01:04:05     Downloading binary `http://www.fku-co.jp/images/material/blog_img008.jpg'.
+2016/5/6 01:04:05       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:05     Testing URL `http://www.fku-co.jp/app/Blogarticleview/index/ArticleId/2/'=>YES.
+2016/5/6 01:04:05     Checking ext `http://www.fku-co.jp/app/Blogarticleview/index/ArticleId/2/'=>.html
+2016/5/6 01:04:06     Checking ext `http://www.fku-co.jp/images/material/PA220549.jpg'=>.jpg
+2016/5/6 01:04:06     Downloading binary `http://www.fku-co.jp/images/material/PA220549.jpg'.
+2016/5/6 01:04:06       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:06     Checking ext `http://www.fku-co.jp/images/material/PA270569.jpg'=>.jpg
+2016/5/6 01:04:06     Downloading binary `http://www.fku-co.jp/images/material/PA270569.jpg'.
+2016/5/6 01:04:06       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:06     Checking ext `http://www.fku-co.jp/images/material/PA270570.jpg'=>.jpg
+2016/5/6 01:04:06     Downloading binary `http://www.fku-co.jp/images/material/PA270570.jpg'.
+2016/5/6 01:04:06       Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:06   Downloading `http://www.fku-co.jp/privacy.html'.
+2016/5/6 01:04:06     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:04:06   Downloading `http://www.fku-co.jp/sitemap.html'.
+2016/5/6 01:04:06     Ref=`http://www.fku-co.jp/'.
+2016/5/6 01:04:07   Downloading `http://web.xaas.jp/js/basicCommon/jdialogurl.js.pagespeed.jm.t9cJgfvncA.js'.
+2016/5/6 01:04:07     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:07   Downloading `http://web.xaas.jp/js/basicCommon/plugins/jQselectable/jQselectable_v2016.js.pagespeed.jm.FyORpxeZS_.js'.
+2016/5/6 01:04:07     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:07   Downloading `http://web.xaas.jp/js/basicCommon/popup.js.pagespeed.jm.OhloF424QD.js'.
+2016/5/6 01:04:07     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:07   Downloading `http://web.xaas.jp/js/basicCommon/commoncheck.js.pagespeed.jm.g7YFdKKKQq.js'.
+2016/5/6 01:04:07     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:07   Downloading `http://web.xaas.jp/js/basicCommon/businesscheck.js.pagespeed.jm.WIFbwXK8jD.js'.
+2016/5/6 01:04:07     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:07   Downloading `http://web.xaas.jp/js/app/blogArticleView.js,qv=20160209.pagespeed.jm.NthX5f55Mf.js'.
+2016/5/6 01:04:07     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+
+2016/5/6 01:04:07 Getting the pages in depth 3.
+2016/5/6 01:04:07   Downloading `http://www.fku-co.jp/mailTo:info%40fku-co.jp/'.
+2016/5/6 01:04:07     Ref=`http://www.fku-co.jp/company.html'.
+2016/5/6 01:04:08   Downloading `http://www.fku-co.jp/app/Blogarticlelist/index/ArticleCatgId/1/'.
+2016/5/6 01:04:08     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:08   Downloading `http://www.fku-co.jp/app/Blogarticleview/index/ArticleId/3/'.
+2016/5/6 01:04:08     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:09     Checking ext `http://web.xaas.jp/js/app/blogArticleView.js,qv=.pagespeed.jm.NthX5f55Mf.js'=>.js
+2016/5/6 01:04:09     Checking ext `http://www.fku-co.jp/app/Blogarticlelist/index/ArticleCatgId/'=>.html
+2016/5/6 01:04:09   Downloading `http://www.fku-co.jp/app/Blogarticleview/index/ArticleId/2/'.
+2016/5/6 01:04:09     Ref=`http://www.fku-co.jp/app/Blogarticlelist/'.
+2016/5/6 01:04:10   Downloading `http://web.xaas.jp/js/app/blogArticleView.js,qv=.pagespeed.jm.NthX5f55Mf.js'.
+2016/5/6 01:04:10     Ref=`http://www.fku-co.jp/app/Blogarticleview/index/ArticleId/3/'.
+
+2016/5/6 01:04:10 Getting the pages in depth 4.
+2016/5/6 01:04:10   Downloading `http://www.fku-co.jp/app/Blogarticlelist/index/ArticleCatgId/'.
+2016/5/6 01:04:10     Ref=`http://www.fku-co.jp/app/Blogarticleview/index/ArticleId/3/'.
+
+2016/5/6 01:04:10 ========FINISHED========

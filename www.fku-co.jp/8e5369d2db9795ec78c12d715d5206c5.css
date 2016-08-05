@@ -1,0 +1,139 @@
+/* ===================================================================
+	各テーマ共通設定
+=================================================================== */
+/* ----------------------------------------------------
+	ヘッダー
+---------------------------------------------------- */
+/*ヘッダー余白*/
+.header_d01,
+.header_d01 p{
+	padding:0px;
+}
+/*キャッチコピー*/
+.header_d01 h1{
+	padding:0 10px 0 0;
+	color:#FFFFFF;
+        font-size:11px;
+}
+/* ヘッダー背景画像 */
+.header_d01 {
+	background:#FFFFFF url(images/material/hdr_bg.jpg) no-repeat top center;
+}
+/* ----------------------------------------------------
+	サイト背景
+---------------------------------------------------- */
+/*サイト用*/
+body {
+	background:none;
+}
+/*プレビュー用*/
+#pageeditblock {
+	background:none;
+}
+/* ----------------------------------------------------
+	コンテナ
+---------------------------------------------------- */
+/*サイト用*/
+#container {
+	border-left:15px solid #FFFFFF;
+	border-right:15px solid #FFFFFF;
+	background: #FFFFFF;
+}
+/*プレビュー用*/
+#pageeditblock #container {
+	border:0px;
+	background: #FFFFFF;
+}
+/* ----------------------------------------------------	
+	オンマウス
+---------------------------------------------------- */
+a:hover img {
+	filter: alpha(opacity=75); /*IE用*/
+	-moz-opacity:0.75; /*Firefox用*/
+	opacity:0.75; /*Chrome・Safari・Opera用*/
+}
+/* ----------------------------------------------------	
+	見出し
+---------------------------------------------------- */
+/*見出し h2*/
+/*
+.calendar_d01 h2,
+.information_d01 h2,
+.blog_d01 h2,
+.regist_d01 h2 {
+	border:1px solid #333333 !important;
+	background-color:#333333;
+	color:#FFFFFF;
+	line-height:1;
+	font-size:105%;
+	padding:8px 0px 8px 27px !important;
+}
+*/
+/*見出し h3*/
+/*
+.regist_d01 h3 {
+	border:none;
+	background:#666666;
+	color:#FFFFFF;
+}
+*/
+/*見出し h4*/
+.regist_d01 h4{
+	border:none;
+	border-bottom:2px solid #666666;
+	color:#666666;
+	font-size: 12px;
+	line-height: 1.1;
+	margin: 0 0 10px 0;
+	padding: 8px 0 8px 8px;
+}
+/* ----------------------------------------------------	
+	メニューパーツ fix
+---------------------------------------------------- */
+/*メニューパーツ*/
+.menu_1 .gnv_d01,
+.menu_2 .gnv_d02{
+	border:1px solid #CCCCCC;
+}
+.menu_1 .gnv_d01 ul li a,
+.menu_2 .gnv_d02 ul li a,
+#pageeditblock .menu_1 .gnv_d01 ul li a,
+#pageeditblock .menu_2 .gnv_d02 ul li a {
+	color:#565656;
+}
+.menu_1 .gnv_d01,
+.menu_2 .gnv_d02,
+.menu_1 .gnv_d01 ul li,
+.menu_2 .gnv_d02 ul li,
+.menu_1 .gnv_d01 ul li.home,
+.menu_1 .gnv_d02 ul li.home,
+.menu_1 .gnv_d01 ul li.other,
+.menu_1 .gnv_d02 ul li.other,
+.menu_1 .gnv_d01 ul li.home a,
+.menu_2 .gnv_d02 ul li.home a{
+	background:#FFFFFF;
+	/*ここから問題のIEハック*/    
+        filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#FFFFFF, endColorstr=#FFFFFF); 
+	/* IE6 &amp;amp; IE7 */    
+        -ms-filter: &amp;quot;progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#FFFFFF, endColorstr=#FFFFFF)&amp;quot;;
+}
+.menu_1 .gnv_d01 ul li.other a,
+.menu_2 .gnv_d02 ul li.other a{
+	border-top:1px solid #CCCCCC;
+}
+/* ----------------------------------------------------	
+	お知らせパーツ fix
+---------------------------------------------------- */
+.information_d01 ul {
+    height: 200px !important;
+}
+.information_d01 h2 p{
+	line-height:1;
+}
+/* ----------------------------------------------------	
+	各種パーツ fix
+---------------------------------------------------- */
+/*カレンダー*/
+table.calendarTable td.otherMonth{
+	background:none;
+}
